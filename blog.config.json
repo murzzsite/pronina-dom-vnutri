@@ -1,0 +1,38 @@
+{
+  "siteName": "Татьяна Пронина",
+  "siteUrl": "https://murzzsite.github.io/pronina-dom-vnutri",
+  "lang": "ru",
+  "repo": "murzzsite/pronina-dom-vnutri",
+  "ref": "B7NUWGHETJ",
+  "workerUrl": "https://lead-relay.leestygpt.workers.dev",
+  "blogTitle": "Блог",
+  "blogDescription": "Статьи эмоционального терапевта Татьяны Прониной об отношениях, опоре, границах и семье",
+  "homeTitle": "Полезные статьи",
+  "author": {
+    "name": "Татьяна Пронина",
+    "jobTitle": "",
+    "type": "Person"
+  },
+  "ctaTitle": "Остались вопросы?",
+  "ctaText": "Расскажите о своей ситуации: отвечу лично и подскажу, с чего начать.",
+  "ctaButton": "Оставить заявку",
+  "ctaUrl": "/#contact",
+  "disclaimer": "Материал носит информационный характер и не заменяет консультацию специалиста. Он не содержит диагнозов и не обещает конкретного результата: ситуация каждого человека индивидуальна.",
+  "telegramNotify": true,
+  "cadenceDays": 7,
+  "homeLatest": 3,
+  "staticPages": [
+    "/"
+  ],
+  "indexNowKey": "bbb701e64f7290b24d69b30f8e197229",
+  "previewSecret": "51ae42e73cc7033f",
+  "theme": {
+    "accent": "var(--accent)",
+    "bg": "var(--bg)",
+    "surface": "var(--surface)",
+    "ink": "var(--ink)",
+    "soft": "var(--ink-soft)",
+    "line": "var(--border)",
+    "accent-soft": "color-mix(in srgb, var(--accent) 10%, #ffffff)"
+  }
+}
