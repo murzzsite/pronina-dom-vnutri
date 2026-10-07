@@ -85,13 +85,25 @@
   });
 
   const targets = document.querySelectorAll(
-    '.audience__card, .principle, .service, .step, .faq__item, .form, .hero__card'
+    '.audience__card, .principle, .service, .step, .faq__item, .form, .hero__card, .video, .course__card, .recognize__list li'
   );
   targets.forEach(el => el.classList.add('reveal'));
   const io = new IntersectionObserver(entries => {
     entries.forEach(e => { if (e.isIntersecting) { e.target.classList.add('is-visible'); io.unobserve(e.target); } });
   }, { threshold: 0.12, rootMargin: '0px 0px -40px 0px' });
   targets.forEach(el => io.observe(el));
+
+  document.querySelectorAll('.video[data-yt]').forEach(v => {
+    v.querySelector('.video__btn')?.addEventListener('click', () => {
+      const id = v.dataset.yt;
+      const f = document.createElement('iframe');
+      f.src = 'https://www.youtube-nocookie.com/embed/' + id + '?autoplay=1&rel=0';
+      f.allow = 'autoplay; encrypted-media; picture-in-picture; fullscreen';
+      f.allowFullscreen = true;
+      f.title = 'Видео';
+      v.querySelector('.video__btn').replaceWith(f);
+    });
+  });
 
   const counters = document.querySelectorAll('[data-target]');
   const countIO = new IntersectionObserver(entries => {
