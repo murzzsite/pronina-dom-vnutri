@@ -1,16 +1,14 @@
 {
   "site": "https://murzzsite.github.io/pronina-dom-vnutri",
-  "updated": "2026-10-11",
-  "awaiting": [
+  "updated": "2026-10-12",
+  "awaiting": [],
+  "scheduled": [],
+  "published": [
     {
       "slug": "pochemu-v-otnosheniyah-ne-stanovitsya-legche",
-      "path": "articles/pochemu-v-otnosheniyah-ne-stanovitsya-legche.md",
       "title": "Вы стараетесь в отношениях, а легче не становится: почему так и что менять",
-      "description": "Вы стараетесь, но напряжение в паре не уходит. Разбираем пять причин, почему так происходит, и что вы можете изменить со своей стороны.",
-      "reading_time": "9 мин чтения",
-      "preview_url": "https://murzzsite.github.io/pronina-dom-vnutri/blog/preview/13ed5e9e08b1/pochemu-v-otnosheniyah-ne-stanovitsya-legche/"
+      "url": "https://murzzsite.github.io/pronina-dom-vnutri/blog/pochemu-v-otnosheniyah-ne-stanovitsya-legche/",
+      "date": "2026-10-12"
     }
-  ],
-  "scheduled": [],
-  "published": []
+  ]
 }
