@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /pronina-dom-vnutri/blog/preview/
 
-Sitemap: https://murzzsite.github.io/pronina-dom-vnutri/sitemap.xml
+Sitemap: https://domvnutritebya.ru/sitemap.xml
