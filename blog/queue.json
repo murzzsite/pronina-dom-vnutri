@@ -1,7 +1,32 @@
 {
   "site": "https://domvnutritebya.ru",
-  "updated": "2026-11-17",
-  "awaiting": [],
+  "updated": "2026-11-18",
+  "awaiting": [
+    {
+      "slug": "granitsy-v-otnosheniyah-bez-viny",
+      "path": "articles/granitsy-v-otnosheniyah-bez-viny.md",
+      "title": "Границы в отношениях: как ставить их без чувства вины и не разрушить близость",
+      "description": "Как выстроить личные границы в паре и не чувствовать вину: признаки размытых границ, пошаговый способ и готовые фразы. Без давления и ультиматумов.",
+      "reading_time": "10 мин чтения",
+      "preview_url": "https://domvnutritebya.ru/blog/preview/d32c2a070b21/granitsy-v-otnosheniyah-bez-viny/"
+    },
+    {
+      "slug": "obestsenivanie-v-pare",
+      "path": "articles/obestsenivanie-v-pare.md",
+      "title": "Обесценивание в паре: как распознать, почему оно появляется и что делать",
+      "description": "Как понять, что вас обесценивают или обесцениваете вы сами: признаки, причины, примеры фраз и спокойные шаги, чтобы вернуть уважение в отношениях.",
+      "reading_time": "9 мин чтения",
+      "preview_url": "https://domvnutritebya.ru/blog/preview/ec8725bbcd04/obestsenivanie-v-pare/"
+    },
+    {
+      "slug": "srivayus-na-detey-chto-delat",
+      "path": "articles/srivayus-na-detey-chto-delat.md",
+      "title": "Срываюсь на детей: почему так происходит и что делать, чтобы вернуть спокойствие в семье",
+      "description": "Кричите на ребёнка и потом мучаетесь виной? Разбираем, почему родители срываются, как остановиться в моменте и как наладить контакт после срыва.",
+      "reading_time": "9 мин чтения",
+      "preview_url": "https://domvnutritebya.ru/blog/preview/945d8c3452e8/srivayus-na-detey-chto-delat/"
+    }
+  ],
   "scheduled": [],
   "published": [
     {
