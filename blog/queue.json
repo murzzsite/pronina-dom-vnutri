@@ -1,15 +1,7 @@
 {
   "site": "https://domvnutritebya.ru",
-  "updated": "2026-11-22",
+  "updated": "2026-11-23",
   "awaiting": [
-    {
-      "slug": "granitsy-v-otnosheniyah-bez-viny",
-      "path": "articles/granitsy-v-otnosheniyah-bez-viny.md",
-      "title": "Границы в отношениях: как ставить их без чувства вины и не разрушить близость",
-      "description": "Как выстроить личные границы в паре и не чувствовать вину: признаки размытых границ, пошаговый способ и готовые фразы. Без давления и ультиматумов.",
-      "reading_time": "10 мин чтения",
-      "preview_url": "https://domvnutritebya.ru/blog/preview/d32c2a070b21/granitsy-v-otnosheniyah-bez-viny/"
-    },
     {
       "slug": "obestsenivanie-v-pare",
       "path": "articles/obestsenivanie-v-pare.md",
@@ -29,6 +21,12 @@
   ],
   "scheduled": [],
   "published": [
+    {
+      "slug": "granitsy-v-otnosheniyah-bez-viny",
+      "title": "Границы в отношениях: как ставить их без чувства вины и не разрушить близость",
+      "url": "https://domvnutritebya.ru/blog/granitsy-v-otnosheniyah-bez-viny/",
+      "date": "2026-11-23"
+    },
     {
       "slug": "pochemu-v-otnosheniyah-ne-stanovitsya-legche",
       "title": "Вы стараетесь в отношениях, а легче не становится: почему так и что менять",
